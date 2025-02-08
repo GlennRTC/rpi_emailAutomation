@@ -167,7 +167,6 @@ Edit the `send_email` method in the `EmailSender` class to customize:
 5. Create a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - [python-dotenv](https://github.com/theskumar/python-dotenv) for environment variable management
